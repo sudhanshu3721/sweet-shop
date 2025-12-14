@@ -49,16 +49,21 @@ A full-stack TDD kata project demonstrating a complete e-commerce system for man
 ### Backend Setup
 
 1. Install Python dependencies:
+
+   cd C:\Users\Dell\Downloads
+git clone https://github.com/sudhanshu3721/sweet-shop.git
+cd sweet-shop
+
 \`\`\`bash
 pip install -r backend/requirements.txt
 \`\`\`
 
-2. Seed the database with sample data:
+3. Seed the database with sample data:
 \`\`\`bash
 python scripts/seed_database.py
 \`\`\`
 
-3. Start the FastAPI server:
+4. Start the FastAPI server:
 \`\`\`bash
 uvicorn backend.main:app --reload
 \`\`\`
@@ -205,3 +210,8 @@ AI tools significantly accelerated development, particularly for repetitive task
 ## License
 
 MIT License
+
+# Screenshots
+<img width="1920" height="1080" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/7414aaa4-1cc6-4a17-8798-6bc010e210b0" />
+
+
