@@ -212,6 +212,7 @@ AI tools significantly accelerated development, particularly for repetitive task
 MIT License
 
 # Screenshots
-<img width="1920" height="1080" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/7414aaa4-1cc6-4a17-8798-6bc010e210b0" />
+<img width="1563" height="749" alt="image" src="https://github.com/user-attachments/assets/640b25be-8860-4a8e-a2b2-1ae561c34aff" />
+
 
 
